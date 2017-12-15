@@ -13,7 +13,7 @@
 3. String Calculator (TDD)
 
          Prieš pradedant:
-         * Neskubėk perskaityti visos užduties ir užbėgti įvykiams už akių.
+         * Neskubėk perskaityti visos užduoties ir užbėgti įvykiams už akių.
          * Daryk užduotis po vieną iš eilės.
          * Nerašyk testų, nesusijusių su konkrečiomis užduotimis.
 
