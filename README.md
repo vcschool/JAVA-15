@@ -10,7 +10,7 @@
 			
 
 
-3. String Calculator (TDD)
+3. (NEREIKIA ATLIKTI) String Calculator (TDD)
 
          Prieš pradedant:
          * Neskubėk perskaityti visos užduoties ir užbėgti įvykiams už akių.
